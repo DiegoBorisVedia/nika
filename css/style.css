@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+body{
+	
+	margin: auto;
+}
+
+
+.center{
+	margin: auto;
+	text-align: center;
+	width: 80%;
+}
+
+
+#galeria{
+	position: relative;
+
+}
+.foto{
+	width: 20%;
+}
+
+
+
+
+#chevron {
+  position: relative;
+  text-align: center;
+  height: 800px;
+  width: 100%;
+  margin-bottom: -150px;
+}
+
+#chevron:before {
+  content: '';
+  position: absolute;
+  top: -50px;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: red;
+  transform: skew(0deg, 2deg);
+}
