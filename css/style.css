@@ -8,6 +8,12 @@ body{
 	margin: auto;
 }
 
+h1{
+      color: aqua;
+    padding-top: 200px;
+    position: relative;
+}
+
 
 .center{
 	margin: auto;
