@@ -9,7 +9,7 @@ body{
 }
 
 h1{
-      color: aqua;
+      color: #fff;
     padding-top: 200px;
     position: relative;
 }
@@ -48,6 +48,6 @@ h1{
   left: 0;
   height: 100%;
   width: 100%;
-  background: red;
+  background: blue;
   transform: skew(0deg, 2deg);
 }
